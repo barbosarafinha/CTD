@@ -1,0 +1,53 @@
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ mv historia_da_contabilidade historia_da_informaticaa                                                    f
+mv: cannot stat 'historia_da_contabilidade': No such 
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)  faela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)$ mv historia_da_contabilidade historia_da_informat  _ic                                                   a
+a                                                  ao
+mv: cannot stat 'historia_da_contabilidade': No sucao_
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ mv historia_da_contabilidade historia_da_informatica
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ mv historia_da_contabilidade historia_da_informatica
+mv: cannot stat 'historia_da_contabilidade': No such file or directoryy 
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ mv historia_da_contabilidade historia_da_informatica
+mv: cannot stat 'historia_da_contabilidade': No such file or directory                                                                    r
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ cd integracao_aula_1e2
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ cd integracao_aula_1e2                                  _1e2 (master
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (mastefarem_hoje software_e_hardware
+r)$ mv historia_da_contabilidade historia_da_informatica             r
+                                                          _1e2 (maste
+$ mv o_que_farem_hoje software_e_hardware
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula           sRafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (maste
+_1e2 (master)$ mv historia_da_contabilidade historia_da_in
+formatica
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (master)$ mv historia_da_coia_da_coade historia_da_informatica
+ntabilidade historia_da_informatica
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (master)$ mv historia_da_contabilidade historia_da_informatica      ria_da_contabilidade historia_da_informatica
+
+$ mv o_que_farem_hoje software_e_hardware
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (master)
+$ mv infraestrutura git_bash_e_vscode
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2 (master)
+$ cd git_bash_e_vscode
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2/git_bash_e_vscode (master) 
+(master)
+$ mais resumo.txt
+bash: mais: command not found
+                                                                                 (master) 
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/integracao_aula_1e2/git_bash_e_vscode 
+(master)
+$

@@ -1,0 +1,97 @@
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~ (master)
+$ pwd
+/c/Users/Rafaela Silva
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~ (master)
+$ mkdir DH
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~ (master)
+$ cd DH
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ mkdir  Integracao_aula_1e2
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ cd Integracao_aula_1e2
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ mkdir historia_da_contabilidade o_que_farem_hoje  servidores  interfaces_de_usuario  infraestrutura
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd historia_da_contabilidade
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/historia_da_contabilidade (master)
+$ touch resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/historia_da_contabilidade (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd infraestrutura
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/infraestrutura (master)
+$ touch resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/infraestrutura (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd interfaces_de_usuario
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/interfaces_de_usuario (master)
+$ touch resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/interfaces_de_usuario (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd o_que_farem_hoje servidores
+bash: cd: too many arguments
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd o_que_farem_hoje
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/o_que_farem_hoje (master)
+$ touch resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/o_que_farem_hoje (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd servidores
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/servidores (master)
+$ touch resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2/servidores (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH/Integracao_aula_1e2 (master)
+$ cd ..
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$ ls -R
+.:
+Integracao_aula_1e2/
+
+./Integracao_aula_1e2:
+historia_da_contabilidade/  interfaces_de_usuario/  servidores/
+infraestrutura/             o_que_farem_hoje/
+
+./Integracao_aula_1e2/historia_da_contabilidade:
+resumo.txt
+
+./Integracao_aula_1e2/infraestrutura:
+resumo.txt
+
+./Integracao_aula_1e2/interfaces_de_usuario:
+resumo.txt
+
+./Integracao_aula_1e2/o_que_farem_hoje:
+resumo.txt
+
+./Integracao_aula_1e2/servidores:
+resumo.txt
+
+Rafaela Silva@DESKTOP-MR2OHNF MINGW64 ~/DH (master)
+$
